@@ -4,4 +4,6 @@
 
 ### Game UI
 
-<img src="https://user-images.githubusercontent.com/34432093/140603776-75950ea1-3097-45a1-b636-a99a0e45308c.PNG" width="280" >
+<img src="https://user-images.githubusercontent.com/34432093/140604958-316acc93-90e2-47db-ade6-13641bd75a7f.PNG" width="280" >
+
+<img src="https://user-images.githubusercontent.com/34432093/140604961-d3c4a7c1-2527-4d9b-8941-e448e3124d6e.PNG" width="280" >
